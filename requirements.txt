@@ -1,4 +1,5 @@
 tensorflow
+imagecodecs
 stardist
 csbdeep
 matplotlib
