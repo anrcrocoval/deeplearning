@@ -3,8 +3,6 @@ stardist
 csbdeep
 matplotlib
 numpy
-sys
-numpy
 PyWavelets
 tifffile
 scipy
