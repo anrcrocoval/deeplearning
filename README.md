@@ -1,5 +1,7 @@
 # deeplearning
 Jupiter notebook for mybinder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anrcrocoval/deeplearning/master)
+
 Using Stardist: https://github.com/mpicbg-csbd/stardist
 Uwe Schmidt, Martin Weigert, Coleman Broaddus, and Gene Myers.
 Cell Detection with Star-convex Polygons.
