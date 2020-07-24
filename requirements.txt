@@ -1,0 +1,4 @@
+tensorflow
+stardist
+csbdeep
+matplotlib
