@@ -25,6 +25,8 @@ Unzip to a suitable location and add the bin directory to your PATH.
 Install tensorflow by pip install tensorflow.
 You may need to restart your PC.
 
+TROUBLESHOOTING:
+- getiing some message about cudacnn that can not be launched: it can simply comes frome GPU memory overload, try to kill your training kernel if it happened in the prediction stage for example.
 
 Using Stardist: https://github.com/mpicbg-csbd/stardist
 Uwe Schmidt, Martin Weigert, Coleman Broaddus, and Gene Myers.
