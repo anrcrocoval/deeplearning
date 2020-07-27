@@ -1,0 +1,4 @@
+*.tif
+*.xml
+*checkpoint.ipynb
+*.tif.labels
