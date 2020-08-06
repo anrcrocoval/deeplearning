@@ -21,3 +21,4 @@ pyyaml
 keras-applications
 keras
 tqdm
+edt
