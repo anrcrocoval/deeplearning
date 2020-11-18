@@ -1,5 +1,12 @@
 # deeplearning
-Jupiter notebook for mybinder
+Jupiter notebooks for mybinder and IJ macro for 3D segmentation of nuclei 
+The purpose of this workflow is to train and apply a 3D StarDist model (Schmitt et al)
+and to facilitate the 3D annotations.
+* The first step is the train/validate/apply in 2D on cropped stacks of 3D data 
+* Second step is the manual merging /correction of th 2D annotation based on a IJ macro to speed up the 3D annotations
+* The last step use this 3D annotation created from the 3D segmentation to train the 3D Stardist model, and then apply it.
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anrcrocoval/deeplearning/master)
 
 
