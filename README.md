@@ -7,6 +7,13 @@ and to facilitate the 3D annotations.
 * The last step use this 3D annotation created from the 3D segmentation to train the 3D Stardist model, and then apply it.
 
 
+Original 3D data:
+confocal microscope Nikon A1 RSi (Nikon SAS, Champigny sur Marne, Fr) with  objective 60x 
+
+0.21 x 0.21 x 0.50 um
+DAPI staining
+Colon samples from adult mouse
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anrcrocoval/deeplearning/master)
 
 
